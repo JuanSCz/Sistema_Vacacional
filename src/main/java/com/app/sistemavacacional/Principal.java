@@ -299,18 +299,58 @@ public class Principal extends JFrame implements ActionListener {
             mb.setBackground(new Color(255, 0, 0));
             setJMenuBar(mb);
             textarea1.setForeground(new Color(255, 0, 0));
+            txtNombreTrabajador.setForeground(new Color(255, 0, 0));
+            txtAPaternoTrabajador.setForeground(new Color(255, 0, 0));
+            txtAMaternoTrabajador.setForeground(new Color(255, 0, 0));
+            comboAntiguedad.setForeground(new java.awt.Color(255, 0, 0));
+            comboDepartamento.setForeground(new java.awt.Color(255, 0, 0));
+            menuColorFondo.setForeground(new Color(255, 0, 0));
+            miCalculo.setForeground(new Color(255, 0, 0));
+            miRojo.setForeground(new Color(255, 0, 0));
+            miNegro.setForeground(new Color(255, 0, 0));
+            miMorado.setForeground(new Color(255, 0, 0));
+            miNuevo.setForeground(new Color(255, 0, 0));
+            miElCreador.setForeground(new Color(255, 0, 0));
+            miSalir.setForeground(new Color(255, 0, 0));
         }
         if (e.getSource() == miNegro) {
             getContentPane().setBackground(new Color(0, 0, 0));
             mb.setBackground(new Color(0, 0, 0));
             setJMenuBar(mb);
             textarea1.setForeground(new Color(0, 0, 0));
+            txtNombreTrabajador.setForeground(new Color(0, 0, 0));
+            txtAPaternoTrabajador.setForeground(new Color(0, 0, 0));
+            txtAMaternoTrabajador.setForeground(new Color(0, 0, 0));
+            comboAntiguedad.setForeground(new java.awt.Color(0, 0, 0));
+            comboDepartamento.setForeground(new java.awt.Color(0, 0, 0));
+            menuColorFondo.setForeground(new Color(0, 0, 0));
+            miCalculo.setForeground(new Color(0, 0, 0));
+            miRojo.setForeground(new Color(0, 0, 0));
+            miNegro.setForeground(new Color(0, 0, 0));
+            miMorado.setForeground(new Color(0, 0, 0));
+            miNuevo.setForeground(new Color(0, 0, 0));
+            miElCreador.setForeground(new Color(0, 0, 0));
+            miSalir.setForeground(new Color(0, 0, 0));
+
         }
         if (e.getSource() == miMorado) {
             getContentPane().setBackground(new Color(51, 0, 51));
             mb.setBackground(new Color(51, 0, 51));
             setJMenuBar(mb);
             textarea1.setForeground(new Color(51, 0, 51));
+            txtNombreTrabajador.setForeground(new Color(51, 0, 51));
+            txtAPaternoTrabajador.setForeground(new Color(51, 0, 51));
+            txtAMaternoTrabajador.setForeground(new Color(51, 0, 51));
+            comboAntiguedad.setForeground(new java.awt.Color(51, 0, 51));
+            comboDepartamento.setForeground(new java.awt.Color(51, 0, 51));
+            menuColorFondo.setForeground(new Color(51, 0, 51));
+            miCalculo.setForeground(new Color(51, 0, 51));
+            miRojo.setForeground(new Color(51, 0, 51));
+            miNegro.setForeground(new Color(51, 0, 51));
+            miMorado.setForeground(new Color(51, 0, 51));
+            miNuevo.setForeground(new Color(51, 0, 51));
+            miElCreador.setForeground(new Color(51, 0, 51));
+            miSalir.setForeground(new Color(51, 0, 51));
         }
         if (e.getSource() == miNuevo) {
 
